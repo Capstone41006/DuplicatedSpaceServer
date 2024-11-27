@@ -1,0 +1,4 @@
+# ninja log v5
+0	9443	1725544967907344059	/home/sumin/Projects/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	cc2cc9e3a74fa63f
+0	14945	1725544973407478783	/home/sumin/Projects/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	ed1bef667efe81bf
+0	42608	1725545001048147650	/home/sumin/Projects/InstantSplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	cf5fda6519c73c2f
